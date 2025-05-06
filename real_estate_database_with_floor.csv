@@ -1,0 +1,43 @@
+City,Rooms,Location,Area (sqm),Floor,Floor Quality,Status,Price (in tenge),Monthly Rent (in tenge),Daily Rent (in tenge)
+Almaty,1,Near Center,60,3,Good,Ready to Move,26000000,182000.0,6066.67
+Karaganda,4,Center,96,1,Normal,Ready to Move,45000000,315000.0,10500.0
+Astana,3,Outskirts,122,3,Good,Ready to Move,22000000,154000.0,5133.33
+Astana,2,Center,146,1,Normal,Ready to Move,45000000,315000.0,10500.0
+Shymkent,2,Near Center,132,8,Normal,Under Construction,58000000,406000.0,13533.33
+Astana,2,Outskirts,100,7,Good,Under Construction,42000000,294000.0,9800.0
+Shymkent,2,Near Center,138,2,Not Very Good,Ready to Move,41000000,287000.0,9566.67
+Karaganda,2,Center,137,4,Good,Ready to Move,46000000,322000.0,10733.33
+Karaganda,2,Center,64,9,Not Very Good,Under Construction,29000000,203000.0,6766.67
+Karaganda,4,Near Center,75,9,Not Very Good,Ready to Move,32000000,224000.0,7466.67
+Astana,2,Outskirts,109,6,Not Very Good,Under Construction,45000000,315000.0,10500.0
+Almaty,1,Center,129,6,Not Very Good,Ready to Move,66000000,462000.0,15400.0
+Shymkent,3,Outskirts,96,7,Good,Ready to Move,47000000,329000.0,10966.67
+Karaganda,3,Center,120,4,Good,Under Construction,38000000,266000.0,8866.67
+Astana,1,Outskirts,107,1,Normal,Under Construction,24000000,168000.0,5600.0
+Karaganda,2,Center,92,7,Good,Under Construction,34000000,238000.0,7933.33
+Shymkent,2,Near Center,101,4,Good,Ready to Move,47000000,329000.0,10966.67
+Almaty,3,Center,96,4,Good,Under Construction,48000000,336000.0,11200.0
+Shymkent,2,Near Center,63,3,Good,Under Construction,40000000,280000.0,9333.33
+Karaganda,4,Near Center,87,8,Normal,Under Construction,51000000,357000.0,11900.0
+Astana,4,Center,125,2,Not Very Good,Under Construction,53000000,371000.0,12366.67
+Shymkent,3,Outskirts,97,6,Not Very Good,Under Construction,33000000,231000.0,7700.0
+Karaganda,3,Near Center,83,2,Not Very Good,Under Construction,49000000,343000.0,11433.33
+Astana,2,Near Center,123,5,Normal,Ready to Move,46000000,322000.0,10733.33
+Astana,1,Near Center,81,6,Not Very Good,Under Construction,26000000,182000.0,6066.67
+Shymkent,2,Center,64,7,Good,Ready to Move,54000000,378000.0,12600.0
+Karaganda,4,Center,114,2,Not Very Good,Ready to Move,32000000,224000.0,7466.67
+Astana,4,Outskirts,88,4,Good,Under Construction,22000000,154000.0,5133.33
+Shymkent,4,Center,76,8,Normal,Ready to Move,34000000,238000.0,7933.33
+Shymkent,3,Center,126,4,Good,Under Construction,62000000,434000.0,14466.67
+Astana,4,Center,60,2,Not Very Good,Under Construction,34000000,238000.0,7933.33
+Karaganda,4,Outskirts,124,1,Normal,Ready to Move,34000000,238000.0,7933.33
+Shymkent,4,Near Center,132,2,Not Very Good,Under Construction,55000000,385000.0,12833.33
+Astana,4,Outskirts,140,3,Good,Ready to Move,50000000,350000.0,11666.67
+Astana,3,Near Center,94,1,Normal,Under Construction,25000000,175000.0,5833.33
+Almaty,2,Near Center,98,8,Normal,Ready to Move,21000000,147000.0,4900.0
+Almaty,4,Center,107,4,Good,Under Construction,52000000,364000.0,12133.33
+Astana,1,Center,99,1,Normal,Ready to Move,54000000,378000.0,12600.0
+Karaganda,1,Center,138,3,Good,Under Construction,61000000,427000.0,14233.33
+Astana,2,Center,126,5,Normal,Under Construction,51000000,357000.0,11900.0
+Almaty,1,Near Center,84,8,Normal,Ready to Move,57000000,399000.0,13300.0
+Almaty,2,Outskirts,105,6,Not Very Good,Under Construction,51000000,357000.0,11900.0

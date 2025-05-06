@@ -1,0 +1,4 @@
+python predict.py "C:\Users\Ilyas Zhusupbekov\Downloads\1660007243_5-priroda-club-p-vid-iz-okna-na-prirodu-krasivo-foto-5.jpg"
+
+streamlit run home.py
+streamlit run all.py
