@@ -3,3 +3,7 @@ torchvision
 matplotlib
 numpy
 Pillow
+pandas
+scikit-learn
+streamlit
+mlxtend

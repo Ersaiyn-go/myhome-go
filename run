@@ -2,3 +2,5 @@ python predict.py "C:\Users\Ilyas Zhusupbekov\Downloads\1660007243_5-priroda-clu
 
 streamlit run home.py
 streamlit run all.py
+streamlit run compare_page.py
+streamlit run my.py
